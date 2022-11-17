@@ -3,7 +3,7 @@
   
   <h3>Random triangles form a cube. Made with three.js.</h3>
 
-  <a href="https://random-triangles-cube.netlify.app/"><h3>Try me!</h3></a>
+  <h3><a href="https://random-triangles-cube.netlify.app/">Try me!</a></h3>
 
   [![Netlify Status](https://api.netlify.com/api/v1/badges/59ac6b41-5e0e-4b49-8a14-572d67bd7502/deploy-status)](https://app.netlify.com/sites/random-triangles-cube/deploys)
 
@@ -17,7 +17,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/javascript/javascript-original.svg" height="50px" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/css3/css3-plain.svg" height="50px" /></a>
+<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/css3/css3-plain.svg" height="50px" /></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/html5/html5-plain.svg" height="50px" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
