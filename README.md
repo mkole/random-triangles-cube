@@ -34,7 +34,3 @@
 
 <img src="./screenshots/screenshot-01.png" height="500px">
 <img src="./screenshots/screenshot-02.png" height="500px">
-
-
-## License
-MIT
