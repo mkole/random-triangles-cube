@@ -18,8 +18,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/css3/css3-plain.svg" height="50px" /></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/html5/html5-plain.svg" height="50px" />
+<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/html5/html5-plain.svg" height="50px" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://threejs.org/">Three.js</a><br>
+<a href="https://github.com/dataarts/dat.gui">dat.GUI</a><br>
+<a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a><br>
+<a href="https://en.wikipedia.org/wiki/CSS">CSS</a><br>
+<a href="https://en.wikipedia.org/wiki/HTML">HTML</a><br>
 
 
 ## Controls
