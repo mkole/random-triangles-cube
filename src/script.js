@@ -82,6 +82,13 @@ const positionsArray = new Float32Array(count * 3 * 3);
 const min = -10;
 const max = 10;
 
+// Lines running experiment
+// const count = 200;
+// const positionsArray = new Float32Array(count * 3 * 3);
+
+// const min = -10000;
+// const max = 10000;
+
 for (let i = 0; i < count * 3 * 3; i++) {
   positionsArray[i] = Math.random() * (max - min) + min;
 }
@@ -122,6 +129,8 @@ const camera = new THREE.PerspectiveCamera(
   sizes.width / sizes.height,
   0.1,
   100
+  // Lines running experiment
+  // 3000
 );
 
 camera.position.x = -15.130161720723741;
