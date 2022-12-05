@@ -16,6 +16,7 @@ info.innerHTML = `Scroll to zoom<br>
   Double-click to toggle fullscreen mode<br>
   Open controls (top-right) to hide/show info<br>
   Click H to hide/show controls<br>
+  <a href="https://github.com/michaelkolesidis/random-triangles-cube" target="_blank">GitHub</a>
 `;
 
 document.body.appendChild(info);
