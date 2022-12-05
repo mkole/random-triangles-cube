@@ -1,49 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
-
-*
-{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
 
 html,
-body
-{
-    overflow: hidden;
+body {
+  overflow: hidden;
 }
 
-a:link {
-    color: #20f404;
-    background-color: transparent;
-  }
-  
-  a:visited {
-    color: #20f404;;
-    background-color: transparent;
-  }
-  
-  a:hover {
-    color: #20f404;;
-    background-color: transparent;
-  }
-  
-  a:active {
-    color: #20f404;;
-    background-color: transparent;
-  }
-
-.webgl
-{
-    position: fixed;
-    top: 0;
-    left: 0;
-    outline: none;
-    z-index: -1;
-}
-
-#info {
-    color: white;
-    padding: 0.4em;
-    font-size: 1.1em;
-    font-family: 'Syne Mono', monospace;
+.webgl {
+  position: fixed;
+  top: 0;
+  left: 0;
+  outline: none;
 }
